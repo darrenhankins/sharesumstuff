@@ -1,4 +1,4 @@
-## SUM ()
+## SUM ( U + Me )
 ### Share Sum Stuff
 ---
 
@@ -7,12 +7,12 @@
 ---
 
 ```
-Sum is an online app that makes sharing tangible items easy.
-What do you want to share
-Upload information about your item
-Add friends and/or family to a group
-Send an email to the group
-Find someone who wants your item
+Sum is an online app that makes sharing tangible items easy. 
+  1.) What do you want to share
+  2.) Upload information about your item
+  3.) Add friends and/or family to a group
+  4.) Send an email to the group
+  5.) Find someone who wants your item
 
 ```
 ---
